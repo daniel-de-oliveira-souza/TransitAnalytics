@@ -102,8 +102,8 @@ plot1_path = visualizer.create_bar_plot(df, srdescription_or_whname, monthnumber
 plot2_path = visualizer.create_line_plot(totals_df_reset, monthnumber_or_weeknumber)
 
 # JsonToMarkdown
-json_dir = '/workspaces/transitanalytics/content'
-markdown_dir = '/workspaces/transitanalytics/content'
+json_dir = '/workspaces/transitanalytics/content/json'
+markdown_dir = '/workspaces/transitanalytics/content/posts'
 converter = JsonToMarkdownConverter(json_dir, markdown_dir)
 converter.convert()
 
