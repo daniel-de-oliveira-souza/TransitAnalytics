@@ -1,5 +1,5 @@
 baseURL: 'https://daniel-de-oliveira-souza.github.io/transitanalytics/'
-title: Transit Analytics
+title: Daniel De Oliveira Souza
 paginate: 5
 theme: PaperMod
 
@@ -20,14 +20,14 @@ params:
   description: "I'm excited to share my thoughts on MTA logistics analytics and the impact of data in NYC urban planning."
   keywords: [MTA, Logistics, Data Analytics, Urban Planning]
   author: Daniel De Oliveira Souza
-  images: ["/images/Daniel_Souza.jpg"]
+  images: ["https://daniel-de-oliveira-souza.github.io/transitanalytics/images/Daniel_Souza.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   color: gray
   github: daniel-de-oliveira-souza
   linkedin: danisouza1993/
-  avatar: "path/to/avatar.jpg" # Update with the correct path
+  avatar: "https://gravatar.com/danielsouzaa" # Update with the correct path
   name: Daniel De Oliveira Souza
   bio: >-
     I'm excited to share my thoughts on MTA logistics analytics and the impact
@@ -63,7 +63,7 @@ params:
 
   profileMode:
     enabled: true
-    title: Transit Analytics
+    title: Daniel De Oliveira Souza
     subtitle: "Data-driven insights on urban mobility"
     imageUrl: "/images/Transit_Art.jpg" # Update with the correct path
     imageWidth: 120

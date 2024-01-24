@@ -4,7 +4,7 @@ date = 2024-01-24
 draft = false
 description = 'Updated Resume'
 tags = ['MTA', 'Logistics', 'Data Analytics', 'Urban Planning']
-categories = ['Resume']
+categories = ['About Me']
 image = '/images/Transit_Art.jpg'
 +++
 # Daniel De Oliveira Souza

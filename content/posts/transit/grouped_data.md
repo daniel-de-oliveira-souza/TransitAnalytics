@@ -1,6 +1,7 @@
 ---
 title: "Grouped Data"
 date: 2024-01-23
+categories: 'Transit'
 ---
 
 ## Grouped Data

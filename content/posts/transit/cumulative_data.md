@@ -1,6 +1,7 @@
 ---
 title: "Cumulative Data"
 date: 2024-01-23
+categories: 'Transit'
 ---
 
 ## Cumulative Data

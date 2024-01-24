@@ -1,45 +1,40 @@
 +++
-title = "About Me - Daniel De Oliveira Souza"
+title = "Bridging Two Worlds: A Tale of Data and Urban Dynamics"
 date = 2024-01-24
 draft = false
-description = 'Professional and Personal Insights'
-tags = ['Business Analysis', 'Data Analytics', 'Technology']
+description = 'A Journey from Rio to NYC Through Data'
+tags = ['Urban Planning', 'Data Analytics', 'Technology', 'Cultural Adaptation']
 categories = ['About Me']
-image = '/images/Transit_Art.jpg'
+image = ['/images/Transit_Art.jpg'] 
 +++
 
-# About Me
-## Daniel De Oliveira Souza
-**Location:** New York, New York, United States
+## Hello, wrold!* 👋
 
-![Daniel De Oliveira Souza](/images/Daniel_Souza.jpg)
+Greetings! I'm Daniel De Oliveira Souza, an IT Business Analyst rooted in New York City, with my heart intertwined with the vibrant life of Rio de Janeiro. My journey from the bustling streets of Rio to the dynamic pulse of NYC a decade ago has been a pathway paved with data, technology, and urban curiosity.
 
-## Introduction
-Hello! I'm Daniel De Oliveira Souza, an enthusiastic and dynamic IT Business Analyst based in New York. With a keen eye for detail and a passion for technology, I specialize in driving operational improvements and strategic decision-making through advanced analytics and IT solutions.
+## Professional Odyssey 🧑‍💼
+Transitioning from Rio to NYC presented a kaleidoscope of challenges and opportunities. It was a shift not just in location, but in perspective, driving me to delve into data analysis and urban dynamics. At the Metropolitan Transportation Authority, my role goes beyond crunching numbers; it's about making sense of the city's rhythm through data, using tools like Power BI and Python.
 
-## Professional Journey
-My career has been a thrilling journey through various roles and industries, each offering unique challenges and learning opportunities. Currently, as a Staff Analyst at the Metropolitan Transportation Authority, I leverage tools like Power BI and Python to enhance asset management and operational efficiency. My role involves not only technical expertise but also a deep understanding of business processes and strategy.
 
-![Resume Logos](/images/Resume_Logos.jpg)
+## Milestones 🏁
+- **Analytical Innovations:** Crafted performance reports for the MTA, integrating my insights from two of the world's most dynamic cities.
+- **Educational Leadership:** Mentored budding data analysts at Fullstack Academy, sharing lessons from my unique international perspective.
+- **Community Engagement:** Fostered a love for technology and analytics as a tutor at The City University of New York.
 
-## Key Achievements
-- **Innovative Analysis:** Developed comprehensive performance reports to aid strategic decision-making at the MTA.
-- **Leadership in Education:** As a Mentor at Fullstack Academy, I guided aspiring data analysts, shaping the next generation of tech talent.
-- **Community Contribution:** Passionate about knowledge sharing, I've contributed as a Computer Science/Math Tutor at The City University of New York.
+## Academic and Professional Development 📚
+My educational journey spans continents and disciplines, from Public Relations and Economics in Brazil to Management Information Systems at Baruch College. Certifications like the Microsoft Certified Power BI Data Analyst Associate are testaments to my relentless pursuit of knowledge.
 
-## Education and Certifications
-With a solid foundation in Management Information Systems from Baruch College and a background in Public Relations and Economics, I bring a diverse perspective to my work. My certifications, like the Microsoft Certified Power BI Data Analyst Associate, underscore my commitment to continuous learning and professional growth.
+## Skills and Insights 📊
+- Expertise in Data Analytics and Urban Planning
+- Strategic Analysis with a Global Perspective
+- Proficient in Power BI, Python, and SQL
+- Adapting Agile Methodologies to Urban Contexts
 
-![Tech Stack](/images/Tech_Stack.jpg)
+## Driving Vision 🔦
+My passion lies in exploring how data can be harnessed to understand and improve urban life. My experiences in Rio and NYC fuel my desire to innovate in asset management and urban planning, making cities more livable and efficient.
 
-## Skills and Expertise
-- Advanced Data Analytics
-- Strategic Business Analysis
-- Power BI, Python, and SQL Proficiency
-- Process Optimization
-- Agile Methodologies
-
-## My Vision
-I am driven by a passion for using technology to solve real-world problems and am always eager to explore new avenues where my skills can contribute to meaningful changes, especially in the fields of asset management and urban planning.
-
-![Transit Art](/images/Transit_Art.jpg)
+#### --------------------------------------------------------------------------------------------------------------------------------------
+#### *P.S. - Spotted the "Hello, wrold" typo? 👀 
+#### It's a wink at the precision needed in coding, where a simple typo can unfold in unexpected ways. 
+#### Thanks for visiting! Crafting this site has been a joy, and I hope you find it as engaging as my journey from Rio to NYC. 
+#### Enjoy your stay!
