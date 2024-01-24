@@ -1,5 +1,5 @@
 +++
-title = "About Me"
+title = "Resume"
 date = 2024-01-24
 draft = false
 description = 'Updated Resume'
@@ -12,9 +12,6 @@ image = '/images/Transit_Art.jpg'
 
 ## Summary
 Dynamic IT Business Analyst with extensive experience in advanced analytics and IT solutions, specializing in driving operational improvements and strategic decision-making. Proficient in Power BI, Python, and Excel for data analysis and reporting. Skilled in process optimization, internal auditing, and translating complex data into actionable insights. Eager to contribute to organizational performance in asset management and recovery through technology and data-driven strategies.
-
-## Brief Overview of Professional Background
-![Resume Logos](/transitanalytics/images/Resume_Logos.jpg)
 
 ## Experience
 
@@ -76,8 +73,6 @@ Incomplete due to overseas move.
 *Issued Dec 2023 - Expires Dec 2024*  
 Certificate ID: 41D46EEDD619BD7D
 
-![Tech Stack](/transitanalytics/images/Tech_Stack.jpg)
-
 ## Skills
 - Microsoft Power BI
 - Microsoft Excel
@@ -89,5 +84,3 @@ Certificate ID: 41D46EEDD619BD7D
 - Materials Management
 - Agile Methodologies
 - Budget Analysis
-
-![Transit Art](/transitanalytics/images/Transit_Art.jpg)
