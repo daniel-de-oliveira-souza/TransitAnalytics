@@ -24,5 +24,6 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically creates this secret to authenticate in your workflow
-        publish_dir: ./public  # Directory where Hugo generates the site
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+    
