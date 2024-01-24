@@ -1,6 +1,6 @@
 +++
 title = "About Me"
-date = 2024-01-22T16:42:12Z
+date = 2024-01-24
 draft = false
 description = 'Updated Resume'
 tags = ['MTA', 'Logistics', 'Data Analytics', 'Urban Planning']
