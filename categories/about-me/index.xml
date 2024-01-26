@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Urban Planning on Daniel De Oliveira Souza</title>
-    <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/urban-planning/</link>
-    <description>Recent content in Urban Planning on Daniel De Oliveira Souza</description>
+    <title>About Me on Daniel De Oliveira Souza</title>
+    <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/categories/about-me/</link>
+    <description>Recent content in About Me on Daniel De Oliveira Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/urban-planning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daniel-de-oliveira-souza.github.io/transitanalytics/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bridging Two Worlds: A Tale of Data and Urban Dynamics</title>
       <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/about/daniel/</link>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MTA on Transit Analytics</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/mta/</link><description>Recent content in MTA on Transit Analytics</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Jan 2024 16:42:12 +0000</lastBuildDate><atom:link href="https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/mta/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/posts/aboutme/</link><pubDate>Mon, 22 Jan 2024 16:42:12 +0000</pubDate><guid>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/posts/aboutme/</guid><description>Updated Resume</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MTA on Daniel De Oliveira Souza</title>
+    <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/mta/</link>
+    <description>Recent content in MTA on Daniel De Oliveira Souza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/mta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/resume/resume/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/resume/resume/</guid>
+      <description>Daniel De Oliveira Souza Location: New York, New York, United States&#xA;Summary Dynamic IT Business Analyst with extensive experience in advanced analytics and IT solutions, specializing in driving operational improvements and strategic decision-making. Proficient in Power BI, Python, and Excel for data analysis and reporting. Skilled in process optimization, internal auditing, and translating complex data into actionable insights. Eager to contribute to organizational performance in asset management and recovery through technology and data-driven strategies.</description>
+    </item>
+  </channel>
+</rss>
