@@ -1,0 +1,4 @@
+[submodule "public"]
+    path = public
+    url = https://github.com/daniel-de-oliveira-souza/transitanalytics.git
+    branch = gh-pages
