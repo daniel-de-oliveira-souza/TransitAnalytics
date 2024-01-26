@@ -13,29 +13,38 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4.1.1
-
+    - name: Debug Log
+      run: echo "Checking Git configuration..."
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '20'
-
+    - name: Debug Log
+      run: echo "Checking Git configuration..."
     - name: Install Hugo
       run: |
         wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.121.2/hugo_extended_0.121.2_Linux-64bit.deb
         sudo dpkg -i hugo.deb
-
+    - name: Debug Log
+      run: echo "Checking Git configuration..."
     - name: Build Site with Hugo
       run: hugo --minify
-
+    - name: Debug Log
+      run: echo "Checking Git configuration..."
     - name: Rename public directory
       run: mv public public_old
-
+    - name: Debug Log
+      run: echo "Checking Git configuration..."
     - name: Clone gh-pages branch
       run: |
         git clone --branch gh-pages --depth 1 https://github.com/daniel-de-oliveira-souza/transitanalytics.git public
-
+    - name: Debug Log
+      run: echo "Checking Git configuration..."
     - name: Copy files to gh-pages
       run: cp -r public_old/* public
+
+    - name: Debug Log
+      run: echo "Checking Git configuration..."
 
     - name: Deploy to GitHub Pages
       run: |
