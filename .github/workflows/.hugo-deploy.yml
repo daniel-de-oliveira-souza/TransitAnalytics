@@ -33,4 +33,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
       # Deploys the site to GitHub Pages
-      # Ensure the GITHUB_TOKEN is set in your
+      # Workflo permissions are set to ahve read and write access to the repository
