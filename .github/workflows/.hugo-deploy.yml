@@ -1,5 +1,6 @@
 name: Deploy Hugo Site on GitHub Pages
 
+# This workflow triggers on a push to the main branch.
 on:
   push:
     branches:
@@ -7,31 +8,29 @@ on:
 
 jobs:
   build-and-deploy:
+    name: Build and Deploy Hugo Site
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4.1.1
+      # Ensure the compatibility with Node.js 20
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.6.0
       with:
-        node-version: '20'
-
-    - name: Install Hugo
-      run: |
-        wget -q -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.121.2/hugo_extended_0.121.2_Linux-64bit.deb
-        sudo dpkg -i hugo.deb
+        hugo-version: 'latest'
+        extended: true
+      # Check for the latest version compatible with Node.js 20
 
     - name: Build Site with Hugo
       run: hugo --minify
+      # Builds the Hugo site with minification
 
     - name: Deploy to GitHub Pages
-      run: |
-        git config --global user.name 'Daniel De Oliveira Souza'
-        git config --global user.email 'danieldeoliveira1993@gmail.com'
-        git checkout -b gh-pages
-        git add -f public
-        git commit -m "Deploy to GitHub Pages"
-        git push -f origin gh-pages
-
+      uses: peaceiris/actions-gh-pages@v3.9.3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+      # Deploys the site to GitHub Pages
+      # Workflo permissions are set to ahve read and write access to the repository
