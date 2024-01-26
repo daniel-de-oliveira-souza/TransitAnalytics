@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Analytics on Transit Analytics</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/data-analytics/</link><description>Recent content in Data Analytics on Transit Analytics</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Jan 2024 16:42:12 +0000</lastBuildDate><atom:link href="https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/data-analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/posts/aboutme/</link><pubDate>Mon, 22 Jan 2024 16:42:12 +0000</pubDate><guid>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/posts/aboutme/</guid><description>Updated Resume</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics on Daniel De Oliveira Souza</title>
+    <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/data-analytics/</link>
+    <description>Recent content in Data Analytics on Daniel De Oliveira Souza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bridging Two Worlds: A Tale of Data and Urban Dynamics</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/about/daniel/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/about/daniel/</guid>
+      <description>Hello, wrold!* 👋 Greetings! I&amp;rsquo;m Daniel De Oliveira Souza, an IT Business Analyst rooted in New York City, with my heart intertwined with the vibrant life of Rio de Janeiro. My journey from the bustling streets of Rio to the dynamic pulse of NYC a decade ago has been a pathway paved with data, technology, and urban curiosity.&#xA;Professional Odyssey 🧑‍💼 Transitioning from Rio to NYC presented a kaleidoscope of challenges and opportunities.</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/resume/resume/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/resume/resume/</guid>
+      <description>Daniel De Oliveira Souza Location: New York, New York, United States&#xA;Summary Dynamic IT Business Analyst with extensive experience in advanced analytics and IT solutions, specializing in driving operational improvements and strategic decision-making. Proficient in Power BI, Python, and Excel for data analysis and reporting. Skilled in process optimization, internal auditing, and translating complex data into actionable insights. Eager to contribute to organizational performance in asset management and recovery through technology and data-driven strategies.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Transit Analytics</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/</link><description>Recent content in Tags on Transit Analytics</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Jan 2024 16:42:12 +0000</lastBuildDate><atom:link href="https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Data Analytics</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/data-analytics/</link><pubDate>Mon, 22 Jan 2024 16:42:12 +0000</pubDate><guid>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/data-analytics/</guid><description/></item><item><title>Logistics</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/logistics/</link><pubDate>Mon, 22 Jan 2024 16:42:12 +0000</pubDate><guid>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/logistics/</guid><description/></item><item><title>MTA</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/mta/</link><pubDate>Mon, 22 Jan 2024 16:42:12 +0000</pubDate><guid>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/mta/</guid><description/></item><item><title>Urban Planning</title><link>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/urban-planning/</link><pubDate>Mon, 22 Jan 2024 16:42:12 +0000</pubDate><guid>https://daniel-de-oliveira-souza.github.io/TransitAnalytics/tags/urban-planning/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Daniel De Oliveira Souza</title>
+    <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/</link>
+    <description>Recent content in Tags on Daniel De Oliveira Souza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cultural Adaptation</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/cultural-adaptation/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/cultural-adaptation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Analytics</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/data-analytics/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/data-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logistics</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/logistics/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/logistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MTA</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/mta/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/mta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/technology/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Urban Planning</title>
+      <link>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/urban-planning/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://daniel-de-oliveira-souza.github.io/transitanalytics/tags/urban-planning/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
