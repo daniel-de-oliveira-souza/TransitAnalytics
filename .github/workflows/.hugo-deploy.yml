@@ -40,7 +40,7 @@ jobs:
     - name: Deploy to GitHub Pages
       run: |
         git config --global user.name 'Daniel De Oliveira Souza'
-        git config --global user.email 'danieldeoliveira1993@gmail.com'
+        git config --global user.email 'danideoliveira1993@gmail.com'
         git checkout gh-pages
         git add .
         git commit -m "Deploy to GitHub Pages"
