@@ -9,6 +9,7 @@ image = ['/images/Transit_Art.jpg']
 +++
 
 ## Hello, wrold!* 👋
+![Daniel Souza](/transitanalytics/images/Daniel_Souza.jpg)
 
 Greetings! I'm Daniel De Oliveira Souza, an IT Business Analyst rooted in New York City, with my heart intertwined with the vibrant life of Rio de Janeiro. My journey from the bustling streets of Rio to the dynamic pulse of NYC a decade ago has been a pathway paved with data, technology, and urban curiosity.
 
@@ -22,6 +23,8 @@ Transitioning from Rio to NYC presented a kaleidoscope of challenges and opportu
 - **Community Engagement:** Fostered a love for technology and analytics as a tutor at The City University of New York.
 
 ## Academic and Professional Development 📚
+![Resume Logos](/transitanalytics/images/Resume_Logos.jpg)
+
 My educational journey spans continents and disciplines, from Public Relations and Economics in Brazil to Management Information Systems at Baruch College. Certifications like the Microsoft Certified Power BI Data Analyst Associate are testaments to my relentless pursuit of knowledge.
 
 ## Skills and Insights 📊

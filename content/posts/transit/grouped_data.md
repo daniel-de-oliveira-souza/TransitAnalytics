@@ -9,6 +9,10 @@ categories: 'Transit'
 
 [Read More](#full-content)
 
+![Average Stockout Change Plot](/transitanalytics/images/avg_stockout_change_plot.png)
+
+![Percentage StockOut by Storeroom](/transitanalytics/images/Percentage_StockOut_by_Storeroom.png)
+
 <div id="full-content"></div>
 
 | WeekNumber | SR | SR Description | FM Count | InStock | StockOut | %StockOut | Date |

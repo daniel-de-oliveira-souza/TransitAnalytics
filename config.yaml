@@ -1,4 +1,4 @@
-baseURL: 'https://daniel-de-oliveira-souza.github.io/transitanalytics/'
+baseURL: 'http://localhost:1313/transitanalytics/'
 title: Daniel De Oliveira Souza
 paginate: 5
 theme: PaperMod
