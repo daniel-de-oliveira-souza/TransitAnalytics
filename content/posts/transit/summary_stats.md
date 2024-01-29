@@ -5,6 +5,9 @@ categories: 'Transit'
 ---
 
 ## Summary Stats
+
+![Transit Analytics ETL Process](/workspaces/transitanalytics/static/GIFs/TransitAnalytics_ETL.gif)
+
 *2024-01-23*
 
 [Read More](#full-content)
